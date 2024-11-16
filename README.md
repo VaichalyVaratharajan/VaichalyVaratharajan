@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating bugs since my first "Hello, World!" <br>
+📚 I'm currently learning about advanced crowd anomaly detection, GANs, and ethical AI practices. <br>
+🎯 Goals: To build explainable and impactful AI systems while sharing insights through my blog and marketing designs. <br>
+🎲 Fun fact: I often find solutions to bugs during midnight brainstorming sessions! 🌙
+</p>
 
 ###
 
