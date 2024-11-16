@@ -30,11 +30,10 @@
 </div>
 
 ###
-
 <div align="left">
-  <img src="https://www.youtube.com/channel/UC8u46BTzChXBNNBX8-L6fag" height="35" alt="youtube logo"  />
-  <img src="https://www.instagram.com/idream_designer/?next=%2F" height="35" alt="instagram logo"  />
-  <img src="https://www.linkedin.com/in/vaichaly-varatharajan" height="35" alt="linkedin logo"  />
+ <a href="https://www.youtube.com/channel/UC8u46BTzChXBNNBX8-L6fag"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+<a href="https://www.instagram.com/idream_designer/?next=%2F">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+<a href="https://www.linkedin.com/in/vaichaly-varatharajan">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
 ###
